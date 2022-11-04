@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1010018195688",
+    "project_id": "cozmozone-1c8e1",
+    "storage_bucket": "cozmozone-1c8e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010018195688:android:3fc52e508344acdb34d15d",
+        "android_client_info": {
+          "package_name": "com.mycompany.cozmozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010018195688-a1ane4rfpmva8l5d1r9l7n1c9o5o3a0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaWzbPCX96WsJdDXwwpgAJs3pmB5xAU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010018195688-a1ane4rfpmva8l5d1r9l7n1c9o5o3a0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010018195688-0kmbcruuc9lo58mvvfmd2migpdut406r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cozmozone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
